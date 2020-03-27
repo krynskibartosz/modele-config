@@ -1,0 +1,11 @@
+{
+  "entrypoints": {
+    "index": {
+      "js": [
+        "/static/js/runtime.js",
+        "/static/js/vendors~index.js",
+        "/static/js/index.js"
+      ]
+    }
+  }
+}
